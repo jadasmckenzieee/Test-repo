@@ -1,3 +1,2 @@
 # Test-repo
-Testing
 <open>
